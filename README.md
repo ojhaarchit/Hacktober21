@@ -14,5 +14,5 @@ Nintendo has multiple subsidiaries in Japan and abroad, in addition to business 
 Kingston Technology Corporation is an American multinational computer technology corporation that develops, manufactures, sells and supports flash memory products and other computer-related memory products, as well as the HyperX gaming division (now owned by HP)[2] Headquartered in Fountain Valley, California, United States, Kingston Technology employs more than 3,000 employees worldwide as of Q1 2016. The company has manufacturing and logistics facilities in the United States, United Kingdom, Ireland, Taiwan, and China.
 
 It is the largest independent producer of DRAM memory modules, owning approximately 68% of the third-party worldwide DRAM module market share in 2017, according to DRAMeXchange.[3] In 2018 the company generated $7.5 billion in revenue and made #53 on the Forbes Lists of "America's Largest Private Companies 2019."[4] Kingston serves an international network of distributors, resellers, retailers and OEM customers on six continents. The company also provides contract manufacturing and supply chain management services for semiconductor manufacturers and system OEMs.
-
+Pokémon[a][1][2][3] (an abbreviation for Pocket Monsters[b] in Japan) is a Japanese media franchise managed by The Pokémon Company, a company founded by Nintendo, Game Freak, and Creatures.
 
